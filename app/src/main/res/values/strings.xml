@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather-Android-APP</string>
+    <string name="temperature_celsius">%s°C</string>
+    <string name="wind_speed">Wind Speed: %s Km/h</string>
+    <string name="humidity">Humidity: %s%%</string>
+    <string name="cloudy">Clouds: %s%%</string>
+    <string name="real_feel">Feels like: %s°C</string>
+    <string name="precipmm">Rain : %s mm</string>
+    <string name="visibilitykm">Visibility: %s km</string>
+    <string name="pressuremb">Pressure: %s mb</string>
+</resources>
